@@ -14,7 +14,7 @@
 
 - 👯 I am open to collaborating on Data Science opportunities and projects
 
-- 👨‍💻 Explore my projects here: 
+- 👨‍💻 Explore my projects here: https://vishwab.my.canva.site/portfolio
 
 - 💬 Feel free to reach out for discussions on Data Analytics, Machine Learning, Deep Learning, NLP, and Generative AI
 
