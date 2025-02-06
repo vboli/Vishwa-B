@@ -18,7 +18,7 @@
 
 - 💬 Feel free to reach out for discussions on Data Analytics, Machine Learning, Deep Learning, NLP, and Generative AI
 
-- 📫 You can contact me at vishwaboli@gmail
+- 📫 You can contact me at **vishwaboli@gmail.com**
 
 - ⚡ Fun Fact: Data scientists transform curiosity into code, turning complex matrices into insightful solutions!
 
