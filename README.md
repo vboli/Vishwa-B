@@ -39,3 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vboli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&hide_border=false&order=2" height="150" alt="stats graph" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vboli&" alt="vboli" /></p>
+
+<div align="center">
+  <img height="200" src="https://help.fanruan.com/finereport-en10.0/uploads/20201230/1609295170644784.gif"  />
+</div>
