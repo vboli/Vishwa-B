@@ -41,5 +41,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vboli&" alt="vboli" /></p>
 
 <div align="center">
-  <img height="200" src="https://help.fanruan.com/finereport-en10.0/uploads/20201230/1609295170644784.gif"  />
+  <img src="https://help.fanruan.com/finereport-en10.0/uploads/20201230/1609295170644784.gif" width="1600" height="300" />
 </div>
