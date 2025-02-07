@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/ef9c263f-0deb-43d2-a488-2f0cf6d0811f)]
+![MasterHead](https://github.com/user-attachments/assets/ef9c263f-0deb-43d2-a488-2f0cf6d0811f)
 <h1 align="center">Hi! 👋 I'm Vishwa</h1>
 <h3 align="center">Visionary Data Scientist: Unlocking Insights with Passion and Expertise</h3>
 <img align="right" alt="Coding" width="400" height="200" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M">
